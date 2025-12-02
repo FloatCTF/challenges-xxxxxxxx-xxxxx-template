@@ -1,5 +1,8 @@
 # xxxx FloatCTF xxx题目仓库
 
+<challenges>
+
+</challenges>
 
 **相关链接**：
 
